@@ -1,7 +1,9 @@
 <!--
 ### Hi there 👋
 
-**celestewinterton/celestewinterton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Future software engineer hoping to make a larger impact through web3 and crypto
+- AppAcademy (Jan - Jul 2022)
+- Formerly finance @ Intel
 
 Here are some ideas to get you started:
 
