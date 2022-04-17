@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Let's connect! 
+https://www.linkedin.com/in/celestewinterton/
+
+
+Visual Studio Code JavaScript HTML5 Redux Express.js JSON JWT Postgres PostgreSQL Sequelize Heroku Git Github NodeJS Pug NPM
