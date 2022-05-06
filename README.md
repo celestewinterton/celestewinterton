@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celestewinterton&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ### Connect with me: 
