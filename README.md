@@ -21,6 +21,7 @@ https://github.com/simple-icons/simple-icons/blob/develop/icons/angellist.svg
 -->
 ### Hi there 👋
 [![Github](https://img.shields.io/github/followers/celestewinterton?label=Follow&style=social)](https://github.com/celestewinterton)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=celestewinterton.celestewinterton) -->
 
 Future software developer hoping to make an impact through web3 and crypto. <br/>
 Fromerly finance @ Intel and currently learning @ App Academy.
