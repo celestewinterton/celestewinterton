@@ -22,17 +22,18 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 align="center"
 
-
+https://github.com/simple-icons/simple-icons/blob/develop/icons/angellist.svg
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celestewinterton&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ### Hi there 👋
 
 Future software developer hoping to make an impact through web3 and crypto. <br/>
-Fromerly finance @ Intel and currently learning at App Academy.
+Fromerly finance @ Intel and currently learning @ App Academy.
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=celestewinterton&show_icons=true&theme=gotham" alt="celestewinterton" />
 
 ### Connect with me: 
+  
 <a href="https://www.linkedin.com/in/celestewinterton/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -66,3 +67,21 @@ Fromerly finance @ Intel and currently learning at App Academy.
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) <br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+### Projects:
+  
+<table>
+  <tbody>
+    <tr>
+      <td width="10%" align="center">
+        <a href="https://seat-me-guestly.herokuapp.com/">
+          <img alt="Storyblok: Build projects faster with the most flexible headless CMS out there" 
+               src="https://user-images.githubusercontent.com/96894806/167314592-c92f6531-bb7d-45c6-a984-5f4d75112a30.png" />
+        </a>
+      </td>
+      <td width="10%" align="center"><a href="#">More projects coming soon!</a></td>
+      <td width="10%" align="center"></td>
+      <td width="10%" align="center"></td>
+    </tr>
+  </tbody>
+</table>
