@@ -5,6 +5,8 @@
 - AppAcademy (Jan - Jul 2022)
 - Formerly finance @ Intel
 
+Hoping to make a more meaningful impact in a more open system
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,13 +16,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
-![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celestewinterton&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
 
 ### Tools & Languages:
 
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
