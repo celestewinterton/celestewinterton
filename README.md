@@ -91,7 +91,7 @@ Fromerly finance @ Intel and currently learning @ App Academy.
                src="https://user-images.githubusercontent.com/96894806/167314592-c92f6531-bb7d-45c6-a984-5f4d75112a30.png" />
         </a>
       </td>
-      <td width="10%" align="center"><a href="#">More projects coming soon!</a></td>
+      <td width="10%" align="center"><a href="#">More projects <br/>coming soon!</a></td>
       <td width="10%" align="center"></td>
       <td width="10%" align="center"></td>
     </tr>
