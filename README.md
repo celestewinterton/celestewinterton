@@ -24,13 +24,15 @@ align="center"
 
 https://github.com/simple-icons/simple-icons/blob/develop/icons/angellist.svg
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celestewinterton&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=celestewinterton&show_icons=true&theme=gotham" alt="celestewinterton" />
+
 -->
 ### Hi there 👋
 
 Future software developer hoping to make an impact through web3 and crypto. <br/>
 Fromerly finance @ Intel and currently learning @ App Academy.
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=celestewinterton&show_icons=true&theme=gotham" alt="celestewinterton" />
 
 ### Connect with me: 
   
