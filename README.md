@@ -83,8 +83,14 @@ Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%),
     <tr>
       <td width="10%" align="center">
         <a href="https://seat-me-guestly.herokuapp.com/">
-          <img alt="Storyblok: Build projects faster with the most flexible headless CMS out there" 
+          <img alt="" 
                src="https://user-images.githubusercontent.com/96894806/167314592-c92f6531-bb7d-45c6-a984-5f4d75112a30.png" />
+        </a>
+      </td>
+      <td width="10%" align="center">
+        <a href="https://chatter-with-us.herokuapp.com/">
+          <img alt="" 
+               src="https://user-images.githubusercontent.com/96894806/171545128-499b5eec-fe19-407b-9eb9-d990adc1b875.png" />
         </a>
       </td>
       <td width="10%" align="center"><a href="#">More projects <br/>coming soon!</a></td>
