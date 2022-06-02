@@ -1,8 +1,6 @@
 <!--
-- AppAcademy (Jan - Jul 2022)
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/celestewinterton/)  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/celestewinterton)  &nbsp; 
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; 
@@ -26,9 +24,6 @@ Fromerly finance @ Intel and currently learning @ App Academy.
    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<!-- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/celestewinterton/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/celestewinterton/)  &nbsp; <a href="mailto:celestewinterton@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
- -->
- 
 <br>
 
 **************
@@ -65,37 +60,32 @@ Fromerly finance @ Intel and currently learning @ App Academy.
 Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories -->
 
 <!-- <p>
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p> -->
   
 ### Projects:
+
+
   
-<table align="right">
+<table>
   <tbody>
     <tr>
-      <td width="10%" align="center">
-        <a href="https://chatter-with-us.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-          <img alt="" 
-               src="https://user-images.githubusercontent.com/96894806/171545128-499b5eec-fe19-407b-9eb9-d990adc1b875.png" />
-        </a>
-      </td>
-      <td width="10%" align="center">
+      <td width="25%" align="center">
         <a href="https://seat-me-guestly.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-          <img alt="" 
+          <img alt=""
                src="https://user-images.githubusercontent.com/96894806/167314592-c92f6531-bb7d-45c6-a984-5f4d75112a30.png" />
         </a>
       </td>
-      <td width="10%" align="center"><a href="#">More projects <br/>coming soon!</a></td>
-      <td width="10%" align="center"></td>
-      <td width="10%" align="center"></td>
+      <td width="25%" align="center">
+        <a href="https://chatter-with-us.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+          <img alt=""
+               src="https://user-images.githubusercontent.com/96894806/171545128-499b5eec-fe19-407b-9eb9-d990adc1b875.png" />
+        </a>
+      </td>
+      <td width="25%" align="center"><a href="#">More projects <br/>coming soon!</a></td>
+      <td width="25%" align="center"></td>
     </tr>
   </tbody>
 </table>
