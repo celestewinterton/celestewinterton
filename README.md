@@ -67,9 +67,12 @@ Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%),
   
 ### Projects:
 
+<a href="https://seat-me-guestly.herokuapp.com/" target="_blank" rel="noopener noreferrer">Coinblock</a> - Coinbase clone <br />
+<a href="https://chatter-with-us.herokuapp.com/" target="_blank" rel="noopener noreferrer">Chatter</a> - Slack clone <br />
+<a href="https://coinblock-trading.herokuapp.com/" target="_blank" rel="noopener noreferrer">Guestly</a> - Wedding RSVPs site <br />
 
   
-<table>
+<!-- <table>
   <tbody>
     <tr>
       <td width="25%" align="center">
@@ -84,8 +87,14 @@ Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%),
                src="https://user-images.githubusercontent.com/96894806/171545128-499b5eec-fe19-407b-9eb9-d990adc1b875.png" />
         </a>
       </td>
+      <td width="25%" align="center">
+        <a href="https://coinblock-trading.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+          <img alt=""
+               src="https://user-images.githubusercontent.com/96894806/174206697-9d35ff0c-5716-4c4d-a3e6-01b30604dd04.png" />
+        </a>
+      </td>
       <td width="25%" align="center"><a href="#">More projects <br/>coming soon!</a></td>
       <td width="25%" align="center"></td>
     </tr>
   </tbody>
-</table>
+</table> -->
