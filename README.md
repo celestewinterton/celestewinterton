@@ -67,9 +67,9 @@ Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%),
   
 ### Projects:
 
-<a href="https://seat-me-guestly.herokuapp.com/" target="_blank" rel="noopener noreferrer">Coinblock</a> - Coinbase clone <br />
+<a href="https://coinblock-trading.herokuapp.com/" target="_blank" rel="noopener noreferrer">Coinblock</a> - Coinbase clone <br />
 <a href="https://chatter-with-us.herokuapp.com/" target="_blank" rel="noopener noreferrer">Chatter</a> - Slack clone <br />
-<a href="https://coinblock-trading.herokuapp.com/" target="_blank" rel="noopener noreferrer">Guestly</a> - Wedding RSVPs site <br />
+<a href="https://seat-me-guestly.herokuapp.com/" target="_blank" rel="noopener noreferrer">Guestly</a> - Wedding RSVPs site <br />
 
   
 <!-- <table>
