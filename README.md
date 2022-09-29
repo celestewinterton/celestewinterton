@@ -10,7 +10,7 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=celestewinterton.celestewinterton) -->
 
 Software developer hoping to make an impact through web3 and crypto. <br/>
-Fromerly finance @ Intel, completed App Academy and looking for my next role.
+Formerly finance @ Intel, completed App Academy and looking for my next role.
 
 ### Connect with me: 
   
