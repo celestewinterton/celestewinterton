@@ -9,8 +9,10 @@
 [![Github](https://img.shields.io/github/followers/celestewinterton?label=Follow&style=social)](https://github.com/celestewinterton)
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=celestewinterton.celestewinterton) -->
 
-Software developer hoping to make an impact through web3 and crypto. <br/>
-Formerly finance @ Intel, completed App Academy and looking for my next role.
+Software Engineer at Northspyre. Excited to build, learn, and make an impact.
+
+<!-- Software developer hoping to make an impact through web3 and crypto. <br/>
+Formerly finance @ Intel, completed App Academy and looking for my next role. -->
 
 ### Connect with me: 
   
