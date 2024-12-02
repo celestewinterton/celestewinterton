@@ -6,7 +6,7 @@
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; 
 -->
 ### Hi there 👋
-[![Github](https://img.shields.io/github/followers/celestewinterton?label=Follow&style=social)](https://github.com/celestewinterton)
+[![Github](https://img.shields.io/github/followers/celestewinterton?label=Follow&style=social)](https://github.com/celestewinterton) 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=celestewinterton.celestewinterton) -->
 
 Software Engineer at Northspyre. Excited to build, learn, and make an impact.
@@ -31,7 +31,30 @@ Formerly finance @ Intel, completed App Academy and looking for my next role. --
 **************
 
 ### Tools & Languages:
+![NPM](https://img.shields.io/badge/npm-D87060?style=for-the-badge&logo=npm&logoColor=white) 
+![Git](https://img.shields.io/badge/git-E78C60?style=for-the-badge&logo=git&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-E3A964?style=for-the-badge&logo=html5&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-D6C166?style=for-the-badge&logo=figma&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-B7C965?style=for-the-badge&logo=javascript&logoColor=white) 
+![Python](https://img.shields.io/badge/python-90BA68?style=for-the-badge&logo=python&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-6DA583?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![React](https://img.shields.io/badge/react-4D9186?style=for-the-badge&logo=react&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-48828C?style=for-the-badge&logo=docker&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-4D7396?style=for-the-badge&logo=typescript&logoColor=white) 
+![Sequelize](https://img.shields.io/badge/Sequelize-5B6593?style=for-the-badge&logo=sequelize&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-6C5A8C?style=for-the-badge&logo=postgresql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7D5386?style=for-the-badge&logo=postgresql&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-8D4D7E?style=for-the-badge&logo=css3&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-9C4874?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Heroku](https://img.shields.io/badge/Heroku-A6446A?style=for-the-badge&logo=heroku&logoColor=white) 
+![Redux](https://img.shields.io/badge/Redux-B04161?style=for-the-badge&logo=redux&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-C33F59?style=for-the-badge&logo=express&logoColor=white) 
+![JSON](https://img.shields.io/badge/json-D03C52?style=for-the-badge&logo=json&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-DA404C?style=for-the-badge&logo=flask&logoColor=white) 
+![Github](https://img.shields.io/badge/GitHub-E2454E?style=for-the-badge&logo=github&logoColor=white) 
+![Pug](https://img.shields.io/badge/Pug-ED4958?style=for-the-badge&logo=pug&logoColor=A86454) 
 
+<!--
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,7 +77,7 @@ Formerly finance @ Intel, completed App Academy and looking for my next role. --
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
-
+ -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestewinterton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
